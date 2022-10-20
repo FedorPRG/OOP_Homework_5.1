@@ -1,0 +1,24 @@
+окт. 20, 2022 9:36:37 PM Program main
+INFO: Начало работы калькулятора
+окт. 20, 2022 9:36:48 PM Program main
+INFO: Ввод чисел
+окт. 20, 2022 9:36:52 PM Program main
+INFO: Ввод действия
+окт. 20, 2022 9:36:52 PM Program main
+INFO: Запись чисел
+окт. 20, 2022 9:36:52 PM Program main
+INFO: Вычисление
+окт. 20, 2022 9:36:52 PM Program main
+INFO: Результат
+окт. 20, 2022 9:37:05 PM Program main
+INFO: Начало работы калькулятора
+окт. 20, 2022 9:37:10 PM Program main
+INFO: Ввод чисел
+окт. 20, 2022 9:37:11 PM Program main
+INFO: Ввод действия
+окт. 20, 2022 9:37:11 PM Program main
+INFO: Запись чисел
+окт. 20, 2022 9:37:11 PM Program main
+INFO: Вычисление
+окт. 20, 2022 9:37:11 PM Program main
+INFO: Результат
